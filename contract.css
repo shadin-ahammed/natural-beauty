@@ -1,0 +1,23 @@
+*
+{
+	font-family:sans-serif;
+}
+.contract-from
+{
+	background-color:#f1f3f4;
+	
+}
+.contract-from h1
+{
+	margin-top:1px;
+	padding-left:200px;
+	
+}
+.contract-from fieldset
+{
+	padding-left:200px;
+}
+.contract-from input
+{
+	border-bottom:80px;
+}
